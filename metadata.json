@@ -1,0 +1,6 @@
+{
+  "name": "KasirKu - Integrated Point of Sale System",
+  "description": "Aplikasi Kasir Web modern dan lengkap: POS, manajemen stok otomatis, printer struk thermal, laporan penjualan & omzet, multi-peran admin/kasir, dan database terpusat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
